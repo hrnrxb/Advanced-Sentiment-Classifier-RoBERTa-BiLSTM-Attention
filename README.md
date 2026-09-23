@@ -69,7 +69,7 @@ Want to run this powerful sentiment classifier on your machine? Follow these sim
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/hrnrxb/roberta-bilstm-attention-sentiment
-    cd roberta-bilstm-attention-sentiment
+    cd Advanced_Sentiment_Classifier_RoBERTa_BiLSTM_Attention
     ```
 
 2.  **Create and activate a Python virtual environment:**
