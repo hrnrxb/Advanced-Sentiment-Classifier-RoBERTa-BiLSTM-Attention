@@ -68,7 +68,7 @@ Want to run this powerful sentiment classifier on your machine? Follow these sim
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/hrnrxb/roberta-bilstm-attention-sentiment](https://github.com/hrnrxb/roberta-bilstm-attention-sentiment) # لینک صحیح ریپازیتوری خودتان
+    git clone https://github.com/hrnrxb/roberta-bilstm-attention-sentiment
     cd roberta-bilstm-attention-sentiment
     ```
 
